@@ -1,0 +1,8 @@
+name: mCapsulas
+version: 1.0
+main: com.mansffer.Main
+description: Mansffer Plugin
+developer: Mansffer
+commands:
+  capsulas:
+    description: Comando para abrir o inventario
